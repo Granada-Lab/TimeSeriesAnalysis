@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated publication."
+title: "TimeSeriesAnalysis"
+repository-code: "https://github.com/Granada-Lab/TimeSeriesAnalysis"
+license: MIT
+preferred-citation:
+  type: article
+  title: "The effects of proliferation status and cell cycle phase on the responses of single cells to chemotherapy"
+  journal: "Molecular Biology of the Cell"
+  year: 2020
+  volume: 31
+  issue: 8
+  pages: "845-857"
+  doi: "10.1091/mbc.E19-10-0568"
+  authors:
+    - family-names: Granada
+      given-names: "Adrián E."
+    - family-names: Jimenez
+      given-names: A
+    - family-names: Stewart-Ornstein
+      given-names: J
+    - family-names: Blüthgen
+      given-names: N
+    - family-names: Reber
+      given-names: S
+    - family-names: Jambhekar
+      given-names: A
+    - family-names: Lahav
+      given-names: G
